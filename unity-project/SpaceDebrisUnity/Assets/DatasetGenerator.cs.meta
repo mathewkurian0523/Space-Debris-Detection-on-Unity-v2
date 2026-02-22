@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f8d881adcec472143b7263d0080dbf3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - captureCamera: {instanceID: 0}
+  - earthTransform: {fileID: 8856354665409012730, guid: 9303ccd737b42514f8fa3bd617e2f7d5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

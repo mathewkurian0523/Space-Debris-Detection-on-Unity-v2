@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b923288cb3ca6bc42a2fe78ca62ed471
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - modelAsset: {fileID: 4900000, guid: f3130cc29196ebf429117dd17748c857, type: 3}
+  - aiCamera: {instanceID: 0}
+  - aiCameraView: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
